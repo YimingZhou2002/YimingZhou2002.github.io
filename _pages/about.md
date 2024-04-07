@@ -50,15 +50,14 @@ My research interest includes neural machine translation and computer vision. I 
 - **2023**
   - National Second Prize, National University Electronic Design Competition
   - National Second Prize, National Embedded Chip and System Design Competition
+  - Eleventh Technology Progress Scholarship
   - Third Prize, National College English Competition
+  - First Prize (School Level), Outstanding Student Scholarship
+
 - **2022**
   - Xiaomi Scholarship
-  - Eleventh Technology Progress Scholarship
   - Second Prize (Provincial Level), National Software and Information Technology Professionals Competition (Lanqiao Cup)
   - First Prize (School Level), Outstanding Student Scholarship
-- **2021.10** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- **2021.09** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
- 
 
 # 📖 Educations
 - *2021.09 - 2025.04 (expected)*, Bachelor of Science in Computer Science and Technology, Yingcai Honors College, University of Electronic Science and Technology, Chengdu, China.
