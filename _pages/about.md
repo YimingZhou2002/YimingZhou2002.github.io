@@ -17,14 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-学习刻苦努力，大一曾取得信通学院第一名的优异成绩，被选拔进入英才实验学院学习，并于第二学年
-获得英才实验学院专业第一名。英语能力较强（IELTS/7.5、TOFEL/105），能够熟练阅读相关专业外文
-文献。曾入选电子设计竞赛校队、主持大创项目“基于人工智能的红外手势识别系统”等一系列项目，
-进入我校徐行教授团队参与科研工作，具有较强的实践能力和创新能力。对计算机、人工智能有浓厚的
-兴趣，目前的研究领域主要聚焦于基于人工智能的异常检测。
+# 🧑‍💼 About Me
 
+Hi,I am Yiming Zhou, a third-year undergraduate student at Yingcai Honors College, University of Electronic Science and Technology, Chengdu, China. Majoring in Computer Science and Technology, I am deeply passionate about computer vision and artificial intelligence.
+
+During my undergraduate studies, I have consistently maintained a perfect GPA of 4.00/4.00, **ranking first **among 137 students. I have also achieved notable successes in various competitions, including National Second Prizes in the fields of electronic design and embedded chip and system design. Additionally, I have been honored with scholarships such as the Xiaomi Scholarship and the Eleventh Technology Progress Scholarship.
+
+Currently, I am conducting research as a Research Intern at the Future Media Research Center, University of Electronic Science and Technology. Under the guidance of Professor Xing Xu, I am exploring topics in computer vision and artificial intelligence, with a focus on industrial anomaly detection and pattern recognition. I have even submitted a paper to ECCV 2024.
+
+Aside from academics and research, I actively engage in extracurricular activities and volunteer work. I have served in roles such as the Student Development Guidance Center's International Competence Department at Yingcai Honors College and have had the opportunity to participate in an exchange program at the Massachusetts Institute of Technology during a summer vacation.
+
+Feel free to reach out to me via email at your_email@example.com, phone at +1234567890, or QQ at 123456789. I am always eager to connect and explore new opportunities for collaboration and growth.
+<!--
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+-->
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
