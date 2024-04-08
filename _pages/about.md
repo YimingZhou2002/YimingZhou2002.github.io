@@ -21,7 +21,7 @@ redirect_from:
 
 Hi,I am Yiming Zhou, a third-year undergraduate student at Yingcai Honors College, University of Electronic Science and Technology, Chengdu, China. Majoring in Computer Science and Technology, I am deeply passionate about computer vision and artificial intelligence.
 
-During my undergraduate studies, I have consistently maintained a perfect GPA of 4.00/4.00, **ranking first **among 137 students. I have also achieved notable successes in various competitions, including National Second Prizes in the fields of electronic design and embedded chip and system design. Additionally, I have been honored with scholarships such as the Xiaomi Scholarship and the Eleventh Technology Progress Scholarship.
+During my undergraduate studies, I have consistently maintained a perfect GPA of 4.00/4.00, **ranking first** among 137 students. I have also achieved notable successes in various competitions, including National Second Prizes in the fields of electronic design and embedded chip and system design. Additionally, I have been honored with scholarships such as the Xiaomi Scholarship and the Eleventh Technology Progress Scholarship.
 
 Currently, I am conducting research as a Research Intern at the Future Media Research Center, University of Electronic Science and Technology. Under the guidance of Professor Xing Xu, I am exploring topics in computer vision and artificial intelligence, with a focus on industrial anomaly detection and pattern recognition. I have even submitted a paper to ECCV 2024.
 
@@ -32,9 +32,10 @@ Feel free to reach out to me via email at your_email@example.com, phone at +1234
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 -->
 
+<!--
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+-->
 
 # 📝 Publications & Projects
 
