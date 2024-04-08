@@ -30,7 +30,22 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📝 Publications 
+# 📝 Publications & Projects
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024 Under Review</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- VQ-Flow: Taming Normalizing Flows for Multi-Class Anomaly Detection via Hierarchical Vector Quantization, **ECCV 2024 Under Review**
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+- VQ-Flow: Taming Normalizing Flows for Multi-Class Anomaly Detection via Hierarchical Vector Quantization, **ECCV 2024 Under Review**
+
+<!--
+# 📝 Publications & Projects
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -45,6 +60,9 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+-->
+
+
 
 # 🎖 Honors and Awards
 - **2023**
@@ -62,11 +80,17 @@ My research interest includes neural machine translation and computer vision. I 
 # 📖 Educations
 - *2021.09 - 2025.04 (expected)*, Bachelor of Science in Computer Science and Technology, Yingcai Honors College, University of Electronic Science and Technology, Chengdu, China.
 
-
+<!--
 # 💬 Invited Talks
 - *2021.06*,
 - *2021.03*
-
+-->
 
 # 💻 Internships
 - *2022.05 - 2024.06(now)*, Future Media Research Center, University of Electronic Science and Technology, Chengdu, China. Supervised by Professor Xing Xu.
+# 📞 Contact
+- **Email**: yiming_zhou2002@163.com  (click the letter button on the top/left at your convience)
+- **Phone**: (+86)18633065878
+- **QQ**: 768263769
+- **Wechat**: search for my phone number
+
