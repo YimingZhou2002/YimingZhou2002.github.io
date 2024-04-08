@@ -27,7 +27,7 @@ Currently, I am conducting research as a Research Intern at the Future Media Res
 
 Aside from academics and research, I actively engage in extracurricular activities and volunteer work. I have served in roles such as the Student Development Guidance Center's International Competence Department at Yingcai Honors College and have had the opportunity to participate in an exchange program at the Massachusetts Institute of Technology during a summer vacation.
 
-Feel free to reach out to me via email at your_email@example.com, phone at +1234567890, or QQ at 123456789. I am always eager to connect and explore new opportunities for collaboration and growth.
+Feel free to reach out to me via email at yiming_zhou2002@163.com, phone at (+86)18633065878, or QQ at 768263769. I am always eager to connect and explore new opportunities for collaboration and growth.
 <!--
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 -->
@@ -37,19 +37,34 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 -->
 
-# 📝 Publications & Projects
+# 📚 Publications & Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024 Under Review</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+## Publications
 
-- VQ-Flow: Taming Normalizing Flows for Multi-Class Anomaly Detection via Hierarchical Vector Quantization, **ECCV 2024 Under Review**
+- **VQ-Flow: Taming Normalizing Flows for Multi-Class Anomaly Detection** *(October 2023 - March 2024)*
+  - VQ-Flow constructs a unified framework for multi-class anomaly detection, applying flow models for the first time in this field. It consists of a multi-layer feature extractor, multi-layer flow models, and a series of feature codebooks. By employing quantization and fitting feature codebooks to mixed Gaussian distributions, VQ-Flow enhances the model's ability to reconstruct multi-class features.
+  - Achieved superior performance on the MVTec AD dataset and the VisA dataset compared to the current state-of-the-art model (DiAD AAAI2024 by Tencent Lab). Currently under review for ECCV2024.
+  - Responsible for building the feature extractor, implementing the model, and conducting related experiments.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+## Projects
 
-- VQ-Flow: Taming Normalizing Flows for Multi-Class Anomaly Detection via Hierarchical Vector Quantization, **ECCV 2024 Under Review**
+- **Smart Guidance Helmet** *(March 2023 - August 2023)*
+  - National Second Prize, National University Embedded Chip and System Design Competition.
+  - Utilized the OpenMV embedded system with MicroPython runtime environment and various peripherals to provide diverse navigation and obstacle avoidance services for the visually impaired.
+  - Developed obstacle avoidance and pathfinding functionalities using depth estimation models (MiDaS) and text-to-speech capabilities through OCR text recognition.
+  - Responsible for system design, construction, and programming.
+
+- **Inductance-Capacitance Measurement Device** *(June 2023 - August 2023)*
+  - National Second Prize, National University Electronic Design Competition.
+  - Designed a set of measurement devices for capacitance and inductance based on bridge method and LC series network resonance method.
+  - Achieved accurate and wide-ranging measurement of capacitance and inductance.
+  - Responsible for system design, circuit construction, and report writing.
+
+- **Infrared Gesture Recognition System Based on Artificial Intelligence** *(September 2022 - September 2023)*
+  - Led a university innovation and entrepreneurship project.
+  - Constructed an infrared receiver array and processed the collected infrared gesture features using LSTM, VGG, and other neural networks to obtain gesture category information.
+  - Successfully completed and approved by the university.
+  - Responsible for building the receiver array, deploying driving algorithms, and initial research and construction of neural networks.
 
 <!--
 # 📝 Publications & Projects
@@ -95,6 +110,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 💻 Internships
 - *2022.05 - 2024.06(now)*, Future Media Research Center, University of Electronic Science and Technology, Chengdu, China. Supervised by Professor Xing Xu.
+
+
 # 📞 Contact
 - **Email**: yiming_zhou2002@163.com  (click the letter button on the top/left at your convience)
 - **Phone**: (+86)18633065878
