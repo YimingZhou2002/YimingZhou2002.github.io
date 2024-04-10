@@ -23,7 +23,7 @@ Hi,I am Yiming Zhou, a third-year undergraduate student at Yingcai Honors Colleg
 
 During my undergraduate studies, I have consistently maintained a perfect GPA of 4.00/4.00, **ranking first** among 137 students. I have also achieved notable successes in various competitions, including National Second Prizes in the fields of electronic design and embedded chip and system design. Additionally, I have been honored with scholarships such as the Xiaomi Scholarship and the Eleventh Technology Progress Scholarship.
 
-Currently, I am conducting research as a Research Intern at the Future Media Research Center, University of Electronic Science and Technology. Under the guidance of Professor Xing Xu, I am exploring topics in computer vision and artificial intelligence, with a focus on industrial anomaly detection and pattern recognition. I have even submitted a paper to ECCV 2024.
+Currently, I am conducting research as a Research Intern at the Future Media Research Center, University of Electronic Science and Technology. Under the guidance of Professor Xing Xu, I am exploring topics in computer vision and artificial intelligence, with a focus on industrial anomaly detection and pattern recognition. I have submitted a paper to ECCV 2024.
 
 Aside from academics and research, I actively engage in extracurricular activities and volunteer work. I have served in roles such as the Student Development Guidance Center's International Competence Department at Yingcai Honors College and have had the opportunity to participate in an exchange program at the Massachusetts Institute of Technology during a summer vacation.
 
@@ -86,7 +86,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 
-# 🎖 Honors and Awards
+# 🏆 Honors and Awards
 - **2023**
   - National Second Prize, National University Electronic Design Competition
   - National Second Prize, National Embedded Chip and System Design Competition
