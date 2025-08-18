@@ -19,23 +19,25 @@ redirect_from:
 
 # 🧑‍💼 About Me
 
-Hi,I am Yiming Zhou, a third-year undergraduate student at Yingcai Honors College, University of Electronic Science and Technology, Chengdu, China. Majoring in Computer Science and Technology, I am deeply passionate about computer vision and artificial intelligence.
+<!-- Hi,I am Yiming Zhou, a third-year undergraduate student at Yingcai Honors College, University of Electronic Science and Technology, Chengdu, China. Majoring in Computer Science and Technology, I am deeply passionate about computer vision and artificial intelligence. -->
+Hi,I'm **Yiming Zhou**, a freshman PhD student at School of Software, Tsinghua University, Beijing, China. Majoring in **Software Engineering**, I am deeply passionate about **computer network systems**，**computer vision and artificial intelligence**.
 
 During my undergraduate studies, I have consistently maintained a perfect GPA of 4.00/4.00, **ranking first** among 137 students. I have also achieved notable successes in various competitions, including National Second Prizes in the fields of electronic design and embedded chip and system design. Additionally, I have been honored with scholarships such as the Xiaomi Scholarship and the Eleventh Technology Progress Scholarship.
 
-Currently, I am conducting research as a Research Intern at the Future Media Research Center, University of Electronic Science and Technology. Under the guidance of Professor Xing Xu, I am exploring topics in computer vision and artificial intelligence, with a focus on industrial anomaly detection and pattern recognition. I have submitted a paper to ECCV 2024.
+Currently, I once worked as a Research Intern at the Future Media Research Center, University of Electronic Science and Technology. Under the supervison of Professor Xing Xu, I am exploring topics in computer vision and artificial intelligence, with a focus on industrial anomaly detection and pattern recognition. I had submitted a paper to ECCV 2024.
+<!-- Currently, I am conducting research as a Research Intern at the Future Media Research Center, University of Electronic Science and Technology. Under the guidance of Professor Xing Xu, I am exploring topics in computer vision and artificial intelligence, with a focus on industrial anomaly detection and pattern recognition. I have submitted a paper to ECCV 2024. -->
 
 Aside from academics and research, I actively engage in extracurricular activities and volunteer work. I have served in roles such as the Student Development Guidance Center's International Competence Department at Yingcai Honors College and have had the opportunity to participate in an exchange program at the Massachusetts Institute of Technology during a summer vacation.
 
-Feel free to reach out to me via email at yiming_zhou2002@163.com, phone at (+86)18633065878, or QQ at 768263769. I am always eager to connect and explore new opportunities for collaboration and growth.
+**Feel free to reach out to me via email at yiming_zhou2002@163.com, phone at (+86)18633065878, or QQ at 768263769. I am always eager to connect and explore new opportunities for collaboration and growth.**
 <!--
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 -->
 
-<!--
+
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
--->
+- *2025.09*: &nbsp;🎉🎉 I have joined Prof. Zhenhua Li at School of Software, Tsinghua University. 
+
 
 # 📚 Publications & Projects
 
@@ -54,6 +56,11 @@ My research interest includes neural machine translation and computer vision. I 
   - Developed obstacle avoidance and pathfinding functionalities using depth estimation models (MiDaS) and text-to-speech capabilities through OCR text recognition.
   - Responsible for system design, construction, and programming.
 
+- **Distributed Microkernel Operating Systems & Key technologies** *(October 2024 - June 2026)*
+  - Nation Science Foundation of China Project, under grant NSFC 62332012.
+  - Develop secure and efficient Microkernel System.
+  - Project underway ...
+  
 - **Inductance-Capacitance Measurement Device** *(June 2023 - August 2023)*
   - National Second Prize, National University Electronic Design Competition.
   - Designed a set of measurement devices for capacitance and inductance based on bridge method and LC series network resonance method.
@@ -84,9 +91,11 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 -->
 
-
-
 # 🏆 Honors and Awards
+- **2025**
+  - Outstanding university graduates, Department of Education, Sichuan Province
+  - Outstanding university graduates, UESTC
+
 - **2023**
   - National Second Prize, National University Electronic Design Competition
   - National Second Prize, National Embedded Chip and System Design Competition
@@ -100,14 +109,18 @@ My research interest includes neural machine translation and computer vision. I 
   - First Prize (School Level), Outstanding Student Scholarship
 
 # 📖 Educations
-- *2021.09 - 2025.04 (expected)*, Bachelor of Science in Computer Science and Technology, Yingcai Honors College, University of Electronic Science and Technology, Chengdu, China.
-
+- *2021.09 - 2025.06 *, Bachelor of Science in Computer Science and Technology, Yingcai Honors College, University of Electronic Science and Technology, Chengdu, China.
+- *2025.09 - 2030.06 (expected)*, PhD of Software Engineering, School of Software, Tsinghua University, Beijing, China.
 <!--
 # 💬 Invited Talks
 - *2021.06*,
 - *2021.03*
 -->
 
+# 💬 Public Services
+- *2024.06-2025.06*, class’ councilor for study
+- *2024.06-2025.06*, XXX Secretary, coordinate organizational & other matters.
+  
 # 💻 Internships
 - *2022.05 - 2024.06(now)*, Future Media Research Center, University of Electronic Science and Technology, Chengdu, China. Supervised by Professor Xing Xu.
 
