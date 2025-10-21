@@ -24,10 +24,9 @@ Hi,I'm **Yiming Zhou**, a freshman PhD student at School of Software, Tsinghua U
 
 During my undergraduate studies, I have consistently maintained a perfect GPA of 4.00/4.00, **ranking first** among 137 students. I have also achieved notable successes in various competitions, including National Second Prizes in the fields of electronic design and embedded chip and system design. Additionally, I have been honored with scholarships such as the Xiaomi Scholarship and the Eleventh Technology Progress Scholarship.
 
-Currently, I once worked as a Research Intern at the Future Media Research Center, University of Electronic Science and Technology. Under the supervison of Professor Xing Xu, I am exploring topics in computer vision and artificial intelligence, with a focus on industrial anomaly detection and pattern recognition. I had submitted a paper to ECCV 2024.
-<!-- Currently, I am conducting research as a Research Intern at the Future Media Research Center, University of Electronic Science and Technology. Under the guidance of Professor Xing Xu, I am exploring topics in computer vision and artificial intelligence, with a focus on industrial anomaly detection and pattern recognition. I have submitted a paper to ECCV 2024. -->
+I once worked as a Research Intern at the Future Media Research Center, University of Electronic Science and Technology. Under the supervison of Professor Xing Xu, I am exploring topics in computer vision and artificial intelligence, with a focus on industrial anomaly detection and pattern recognition. 
 
-Aside from academics and research, I actively engage in extracurricular activities and volunteer work. I have served in roles such as the Student Development Guidance Center's International Competence Department at Yingcai Honors College and have had the opportunity to participate in an exchange program at the Massachusetts Institute of Technology during a summer vacation.
+Aside from academics and research, I actively engage in extracurricular activities and student work. I have served in roles such as the Party Sec of second party branch at Yingcai Honors College and have had the opportunity to participate in an exchange program at the Massachusetts Institute of Technology during a summer vacation.
 
 **Feel free to reach out to me via email at yiming_zhou2002@163.com, phone at (+86)18633065878, or QQ at 768263769. I am always eager to connect and explore new opportunities for collaboration and growth.**
 <!--
@@ -45,7 +44,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 - **VQ-Flow: Taming Normalizing Flows for Multi-Class Anomaly Detection** *(October 2023 - March 2024)*
   - VQ-Flow constructs a unified framework for multi-class anomaly detection, applying flow models for the first time in this field. It consists of a multi-layer feature extractor, multi-layer flow models, and a series of feature codebooks. By employing quantization and fitting feature codebooks to mixed Gaussian distributions, VQ-Flow enhances the model's ability to reconstruct multi-class features.
-  - Achieved superior performance on the MVTec AD dataset and the VisA dataset compared to the current state-of-the-art model (DiAD AAAI2024 by Tencent Lab). Currently under review for ECCV2024.
+  - Achieved superior performance on the MVTec AD dataset and the VisA dataset compared to the current state-of-the-art model (DiAD AAAI2024 by Tencent Lab). 
   - Responsible for building the feature extractor, implementing the model, and conducting related experiments.
 
 ## Projects
@@ -55,18 +54,14 @@ My research interest includes neural machine translation and computer vision. I 
   - Utilized the OpenMV embedded system with MicroPython runtime environment and various peripherals to provide diverse navigation and obstacle avoidance services for the visually impaired.
   - Developed obstacle avoidance and pathfinding functionalities using depth estimation models (MiDaS) and text-to-speech capabilities through OCR text recognition.
   - Responsible for system design, construction, and programming.
-
 - **Distributed Microkernel Operating Systems & Key technologies** *(October 2024 - June 2026)*
   - Nation Science Foundation of China Project, under grant NSFC 62332012.
   - Develop secure and efficient Microkernel System.
-  - Project underway ...
-  
 - **Inductance-Capacitance Measurement Device** *(June 2023 - August 2023)*
   - National Second Prize, National University Electronic Design Competition.
   - Designed a set of measurement devices for capacitance and inductance based on bridge method and LC series network resonance method.
   - Achieved accurate and wide-ranging measurement of capacitance and inductance.
   - Responsible for system design, circuit construction, and report writing.
-
 - **Infrared Gesture Recognition System Based on Artificial Intelligence** *(September 2022 - September 2023)*
   - Led a university innovation and entrepreneurship project.
   - Constructed an infrared receiver array and processed the collected infrared gesture features using LSTM, VGG, and other neural networks to obtain gesture category information.
@@ -109,7 +104,7 @@ My research interest includes neural machine translation and computer vision. I 
   - First Prize (School Level), Outstanding Student Scholarship
 
 # 📖 Educations
-- *2021.09 - 2025.06 *, Bachelor of Science in Computer Science and Technology, Yingcai Honors College, University of Electronic Science and Technology, Chengdu, China.
+- *2021.09 - 2025.06*, Bachelor of Science in Computer Science and Technology, Yingcai Honors College, University of Electronic Science and Technology, Chengdu, China.
 - *2025.09 - 2030.06 (expected)*, PhD of Software Engineering, School of Software, Tsinghua University, Beijing, China.
 <!--
 # 💬 Invited Talks
